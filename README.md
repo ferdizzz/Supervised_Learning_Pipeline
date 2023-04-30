@@ -1,5 +1,5 @@
 # Supervised_Learning_Pipeline
-Developing a supervised learning pipeline
+## Developing a supervised learning pipeline
 The CNR institute has outsourced the challenge of finding an explainable supervised learning model to infer the unknown hidden function from the available dataset. The dataset contains 150 different observations related to the power radiated by a black body, with anonymized features such as temperature, pressure, etc. My task involves implementing a machine learning pipeline using an appropriate programming language, like Python, and providing a report with the following sections:
 
 * Loading data and preliminary analysis: Load the dataset and perform an initial exploration to understand the data's structure, characteristics, and potential correlations between variables. Use descriptive statistics and visualization techniques to better comprehend the dataset.

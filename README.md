@@ -12,4 +12,4 @@ The CNR institute has outsourced the challenge of finding an explainable supervi
 
 * Discussion: Discuss the pros and cons of the designed pipeline, addressing any limitations or potential improvements. Analyze the time complexity of the pipeline, considering factors such as data preprocessing, model training, and evaluation.
 
-[See Notebook here](https://nbviewer.org/github/ferdizzz/Supervised_Learning_Pipeline/blob/ae01150966aa7270843db0849fee081a4ed08b14/Supervised%20Learning%20Project.ipynb)
+[See Notebook here](https://nbviewer.org/github/ferdizzz/Supervised_Learning_Pipeline/blob/master/Supervised%20Learning%20Project.ipynb)
